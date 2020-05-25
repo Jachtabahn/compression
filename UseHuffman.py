@@ -1,7 +1,7 @@
 from bhrigu import HuffmanCoding
 
 #input file path
-path = "/home/habimm/projekte/_kompression/beispiele/plan.txt"
+path = "beispiele/plan.txt"
 
 h = HuffmanCoding(path)
 
